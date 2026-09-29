@@ -1,0 +1,11 @@
+{
+  "name": "JARVIS Desktop AI",
+  "description": "Jarvis-style desktop AI assistant featuring audio-to-audio voice interaction, computer camera vision, holographic gesture icon controls, and real-time world knowledge grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
